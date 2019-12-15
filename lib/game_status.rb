@@ -9,8 +9,8 @@ if board[top_row_win[0]] == "X" && board[top_row_win[1]] == "X" && board[top_row
 elsif board[middle_row_win[3]] == "X" && board[top_row_win[5]] == "X" && board[top_row_win[5]] == "X"
   puts "won"
 elsif board[top_row_win[0]] == "X" && board[top_row_win[1]] == "X" && board[top_row_win[2]] == "X"
-  
-      
+
+
 
 
 # Define your WIN_COMBINATIONS constant
